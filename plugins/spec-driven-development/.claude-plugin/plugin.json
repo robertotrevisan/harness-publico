@@ -1,0 +1,9 @@
+{
+  "name": "spec-driven-development",
+  "version": "1.0.0",
+  "description": "Fluxo spec-driven para software: escrever PRD, TRD e converter conversas em spec",
+  "author": {
+    "name": "Roberto Trevisan",
+    "email": "trevisan@gmail.com"
+  }
+}

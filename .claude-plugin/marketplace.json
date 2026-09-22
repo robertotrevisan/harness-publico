@@ -1,0 +1,8 @@
+{
+  "name": "robertotrevisan-marketplace-publico",
+  "owner": { "name": "Roberto Trevisan", "email": "trevisan@gmail.com" },
+  "plugins": [
+    { "name": "spec-driven-development", "source": "./plugins/spec-driven-development", "description": "Fluxo spec-driven para software: escrever PRD, TRD e converter conversas em spec" },
+    { "name": "uso-geral",               "source": "./plugins/uso-geral",               "description": "Brainstorm e maturação de ideias antes de especificar ou implementar" }
+  ]
+}
